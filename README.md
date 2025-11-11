@@ -18,7 +18,7 @@ The model folder contains the trained model's .pt file.
 
 
 ## ipynb
-- `CNN_Pre.ipynb contains the code for training a CNN to predict PCE.`
+- CNN_Pre.ipynb contains the code for training a CNN to predict PCE.
 - LSTM_Pre.ipynb contains the code for training an LSTM to predict PCE.
 - gplearn.ipynb contains the code for training the gplearn model.
 - Hyperparameter_T.ipynb contains the code used for hyperparameter tuning of the prediction models.
