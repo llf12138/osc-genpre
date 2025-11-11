@@ -18,11 +18,11 @@ The model folder contains the trained model's .pt file.
 
 
 ## ipynb
+- `CNN_Pre.ipynb contains the code for training a CNN to predict PCE.`
+- LSTM_Pre.ipynb contains the code for training an LSTM to predict PCE.
+- gplearn.ipynb contains the code for training the gplearn model.
+- Hyperparameter_T.ipynb contains the code used for hyperparameter tuning of the prediction models.
+- gen_pt.ipynb contains the code used for encoding data to be used by the generative model.
+- LSTM_Gen.ipynb contains the code for training the LSTM generative model.
+- new_Gen.ipynb contains the code for using the trained generative model to generate molecules.
 
-CNN_Pre.ipynb contains the code for training a CNN to predict PCE.
-LSTM_Pre.ipynb contains the code for training an LSTM to predict PCE.
-gplearn.ipynb contains the code for training the gplearn model.
-Hyperparameter_T.ipynb contains the code used for hyperparameter tuning of the prediction models.
-gen_pt.ipynb contains the code used for encoding data to be used by the generative model.
-LSTM_Gen.ipynb contains the code for training the LSTM generative model.
-new_Gen.ipynb contains the code for using the trained generative model to generate molecules.
